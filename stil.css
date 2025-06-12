@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+    color: blue;
+font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+font-size: 16px;
+line-height: 18px;
+width: 600px;
+color: darksalmon; background-color: rgba(255, 255, 255, 0.5);
+padding: 20px;
+	h1 {
+font-family:Gothan, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+color: darkred;
+}
+h2 {
+font-family: Gothan, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+color: mediumvioletred;
+}
+body{background-image:url("IMG_7642.jpg)");
+}
+
